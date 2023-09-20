@@ -1,0 +1,4 @@
+Nombre,Apellido Paterno,Apellido Materno,Telefono
+jose luis,perez,olguin,8121732091
+adrian,alardin,iracheta,8121966517
+jose alberto,perez,olguin,9999
